@@ -8,7 +8,7 @@ from plotly.subplots import make_subplots
 st.set_page_config(page_title="축제 예산 대비 방문객 성과 분석 시스템", layout="wide")
 
 # 제목 및 서브타이틀
-st.title("📊 축제 예산 투자 대비 성과(ROI) 분석 시스템")
+st.title("📊 축제 예산 투자 대비 성과 분석 시스템")
 st.markdown("### 1. [데이터 전처리] 복합 JOIN 및 텍스트 정제 SQL")
 
 # 1. SQL 쿼리문 노출 (요구사항 반영)
